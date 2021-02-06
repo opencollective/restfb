@@ -1,4 +1,4 @@
-[![Travis (.org)](https://img.shields.io/travis/restfb/restfb.svg?style=for-the-badge)](https://travis-ci.org/restfb/restfb)
+[!•[Travis (.org)](https://img.shields.io/travis/restfb/restfb.svg?style=for-the-badge)](https://travis-ci.org/restfb/restfb)
 
 
 # RestFB (http://restfb.com)
